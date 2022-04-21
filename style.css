@@ -1,0 +1,59 @@
+body{
+  background-image: url('img/img.png');
+  background-size: 60%;
+}
+
+#submit{
+  width: 100px;
+  cursor: pointer;
+  position: absolute;
+  top: 20px;
+  left: 45%;
+}
+
+
+#view{
+  padding-top: 20px;
+  margin: 5% 15%;
+  height: 90px;
+  width: 60%;
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  font-size: auto;
+  font-weight: bold;
+  color: rgb(255, 94, 0);
+}
+
+#save{
+  width: 100px;
+  cursor: pointer;
+  position: absolute;
+  top: 190px;
+  left: 40%;
+}
+#clear{
+  width: 100px;
+  cursor: pointer;
+  position: absolute;
+  top: 190px;
+  left: 50%;
+}
+
+table {
+  margin: 20px 3%;
+  width: 60%;
+}
+
+th {
+  width: 15%;
+  font-size: 8px;
+  background-color: rgb(241, 239, 239);
+  border-bottom: 1px solid #808080;
+}
+td {
+  font-size: 10px;
+  background-color: rgb(241, 239, 239);
+  border-bottom: 1px solid #808080;
+  text-align: center;
+}
+
