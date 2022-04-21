@@ -3,3 +3,4 @@
 - ローカルストレージにお気に入り登録できます。
 - マンガごちゃまぜなのでカオス感が楽しめます。
 ## ※--manga_word_apiを起動させないと動きません。--※
+## https://github.com/takayanagishinnosuke/manga_word_api
